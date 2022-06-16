@@ -28,7 +28,7 @@ let message = [
     "You are not alone.",
     "You are not alone.",
     "You are not alone.",
-    "You are not alone."
+    "Read this"
 ];
 
 let index = 0;
